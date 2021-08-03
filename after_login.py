@@ -37,10 +37,6 @@ b5=Button(root, text='feedback', command=Ok3,width=20,bg="black",fg='white')
 
 
 
-b2.place(x=180,y=220)
-b3.place(x=180,y=260)
-b4.place(x=180,y=300)
-b5.place(x=180,y=340)
 
 
 root.mainloop()
